@@ -15,7 +15,7 @@
 
 - I love travel around my city and learning new stuff about general culture. I also practice english with my gf by meet.
 
-- 📚 I like reading books in my spare time about architecture so dsend me suggestions of your recommendations!!!
+- 📚 I like reading books in my spare time about architecture so  you can send me recommendations!!!
 
 #### Reach me @
 
