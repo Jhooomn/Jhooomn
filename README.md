@@ -18,7 +18,7 @@
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="GCP" width="30px" src="https://user-images.githubusercontent.com/32346414/136890885-b224fa64-8621-4a39-b3aa-c60cc85f888c.png" />
+<img align="left" alt="GCP" width="30px" src="https://user-images.githubusercontent.com/32346414/136891137-5c3d8463-c124-48c1-9e20-824cd3d0a4ce.png" />
 <img align="left" alt="Jenkins" width="30px" src="https://user-images.githubusercontent.com/32346414/136891047-ce298c55-89f5-49ff-98d6-0fa4f78a5f2b.png" />
 
 <br></br>
