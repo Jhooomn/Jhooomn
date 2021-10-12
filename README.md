@@ -14,6 +14,8 @@
 ### Technology Stack 👩‍💻
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/32346414/136891398-33a6b2ad-acb8-406b-8c1b-8a2cb6160b0b.png" />
+<img align="left" alt="Flask" width="30px" src="https://user-images.githubusercontent.com/32346414/136891484-5b3fd050-6808-4257-8c91-4e56e2a3778e.png" />
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
