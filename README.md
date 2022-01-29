@@ -7,7 +7,7 @@
 
 - Python is my principal algorithm or solutions solver to use in really microservices, Functions as a Service (FaaS), deploying Machine Learning models with Flask and Data Science stuff with Pandas, Seaborn, Cufflinks, ScikitLearn, Matplotlib, Joblib libraries...
 
-- 🌱 I’m currently learning Micronaut, Quarkus, Play, Flask, Django, SRE, getting into DevOps philosophy, Docker, Kubernetes and all relative with Reactive programming with Reactor Project / RxJava.  
+- 🌱 I’m currently learning GoLang, Micronaut, Quarkus, Play, Flask, Django, SRE, getting into DevOps philosophy, Docker, Kubernetes and all relative with Reactive programming with Reactor Project / RxJava.  
 
 ### Technology Stack 👩‍💻
 <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32346414/136891663-7476dc71-6737-4014-97dd-b41f8cf0ac01.png" />
