@@ -3,7 +3,7 @@
 
 ![Jhooomn's github stats](https://github-readme-stats.vercel.app/api?username=Jhooomn&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhooomn&layout=default)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhooomn&layout=default)
 
 ### Technology Stack 👩‍💻
 <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32346414/136891663-7476dc71-6737-4014-97dd-b41f8cf0ac01.png" />
