@@ -9,6 +9,10 @@
 
 - 🌱 I’m currently learning GoLang, Micronaut, Quarkus, Play, Flask, Django, SRE, getting into DevOps philosophy, Docker, Kubernetes and all relative with Reactive programming with Reactor Project / RxJava.  
 
+![Jhooomn's github stats](https://github-readme-stats.vercel.app/api?username=Jhooomn&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhooomn&layout=compact)]
+
 ### Technology Stack 👩‍💻
 <img align="left" alt="Java" width="30px" src="https://user-images.githubusercontent.com/32346414/136891663-7476dc71-6737-4014-97dd-b41f8cf0ac01.png" />
 <img align="left" alt="Python" width="30px" src="https://user-images.githubusercontent.com/32346414/136891398-33a6b2ad-acb8-406b-8c1b-8a2cb6160b0b.png" />
